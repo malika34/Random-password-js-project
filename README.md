@@ -33,7 +33,7 @@ This tool generates strong and secure passwords instantly and allows you to copy
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/malika34/Random-password-js-project.git
    ```
 2. Navigate to the project folder.
 3. Open index.html in your browser.
